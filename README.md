@@ -78,8 +78,8 @@ operate by separating:
 ## 1️⃣ Clone the Repository
 
 ``` bash
-git clone <repo-url>
-cd <project-folder>
+git clone <ecommerce-recomendations-with-tensorflow-postgres>
+cd <ecommerce-recomendations-with-tensorflow-postgres>
 ```
 
 ------------------------------------------------------------------------
